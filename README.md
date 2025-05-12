@@ -29,3 +29,9 @@ A simple **Rock Paper Scissors** game built with **Python** and **Pygame**.
 - Pygame
 
 ## 💾 Installation
+
+[**Click here to download Rock Paper Scissors**](https://github.com/user-attachments/files/20153913/rock-paper-scissors.zip)
+
+1. Unzip the downloaded file.
+2. Open the folder.
+3. Double-click on `main.exe` to play.
