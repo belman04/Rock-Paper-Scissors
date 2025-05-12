@@ -23,7 +23,7 @@ A simple **Rock Paper Scissors** game built with **Python** and **Pygame**.
 - The result is displayed along with the updated score
 - Click the restart icon to play again
 
-## ⚙️ Requirements
+## ⚙️ Requirements (To replicate)
 
 - Python 3.7+
 - Pygame
